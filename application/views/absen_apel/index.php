@@ -10,7 +10,7 @@
         </div>
     </div>
 
-
+    <a href="<?php echo base_url('absen_apel/absen/' . $user['id']); ?>" class="btn btn-success">Hadir</a>
 
 </div>
 <!-- /.container-fluid -->
